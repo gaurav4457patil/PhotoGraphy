@@ -13,7 +13,7 @@ export default function App() {
   const galleryImages = [
     {
       id: 1,
-      url: 'https://images.unsplash.com/photo-1758905728020-a888617aecd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3ZWRkaW5nJTIwcGhvdG9ncmFwaHklMjBlbGVnYW50fGVufDF8fHx8MTc2MzQ1Nzg3N3ww&ixlib=rb-4.1.0&q=80&w=1080',
+      url: 'https://images.unsplash.com/photo-1519741497674-611481863552?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080',
       category: 'Weddings',
     },
     {
